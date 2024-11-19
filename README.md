@@ -24,8 +24,6 @@ A full-stack web application using **React.js** and **Flask** that enables users
 - **Flask**: Python-based lightweight web framework.
 
 ---
-### **Screenshot**
-(![image](image.png))
 
 ## **File Structure**
 
