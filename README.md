@@ -25,7 +25,7 @@ A full-stack web application using **React.js** and **Flask** that enables users
 
 ---
 ### **Screenshot**
-![image](![alt text](image.png))
+![image](image.png)
 
 ## **File Structure**
 
