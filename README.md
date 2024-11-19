@@ -25,7 +25,7 @@ A full-stack web application using **React.js** and **Flask** that enables users
 
 ---
 ### **Screenshot**
-![image](image.png)
+![screenshot](./React_Dashboard/image.png)
 
 ## **File Structure**
 
